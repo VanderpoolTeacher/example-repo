@@ -10,6 +10,7 @@ Prepared by **Vanderpool Consulting, LLC**.
 - **building-the-organization.html** — Interactive walkthrough of the organizational-foundation concept (self-contained logo; pulls Inter + Teko web fonts).
 - **onboarding-scorm-sample.html** — Sample interactive onboarding module, SCORM-style layout and navigation (pulls Inter + JetBrains Mono web fonts and Font Awesome icons from CDN).
 - **ld-program-onboarding-module.html** — The L&D Program Onboarding course as an interactive, self-contained module (HC brand, light/dark, FIRST-values matching game, leader scenarios, pipeline + Trello walkthrough, scored quiz). Deployed as a standalone page for SME review; not linked from `index.html` while it is a draft under review. Master lives in the L&D build sandbox.
+- **ld-documentation-walkthrough.html** — The L&D new-hire **Documentation Walkthrough** — a 19-slide facilitated orientation to the L&D documentation system, with a built-in light/dark toggle and a live interactive Knowledge-check section (MCQ, match, true/false, reveal cards, ordering). Self-contained. Master lives in the L&D build sandbox.
 
 ## Viewing
 
